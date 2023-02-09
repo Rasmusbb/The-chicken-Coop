@@ -1,0 +1,21 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Chicken.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Farmer.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Main.cs" type="Script" id=3]
+[ext_resource path="res://UI.tscn" type="PackedScene" id=4]
+
+[node name="Main" type="Node2D"]
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_lock_": true
+}
+farmerScene = ExtResource( 2 )
+
+[node name="spawnLocation" type="Position2D" parent="."]
+position = Vector2( 375, 213 )
+
+[node name="UI" parent="." instance=ExtResource( 4 )]
+
+[node name="Chicken" parent="." instance=ExtResource( 1 )]
+position = Vector2( 412, 210 )

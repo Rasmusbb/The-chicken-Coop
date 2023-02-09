@@ -1,0 +1,9 @@
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\bin\Debug\The chicken Coop.dll
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\bin\Debug\The chicken Coop.pdb
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.AssemblyInfo.cs
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.dll
+C:\Users\minec\Documents\The chicken Coop\.mono\temp\obj\Debug\The chicken Coop.pdb
